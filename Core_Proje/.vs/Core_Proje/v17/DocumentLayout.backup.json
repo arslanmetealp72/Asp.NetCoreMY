@@ -1,0 +1,296 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\arslanmetealp72\\source\\repos\\Core_Proje\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{372E303A-C748-4094-A242-E185D72922B2}|Core_Proje\\Core_Proje.csproj|c:\\users\\arslanmetealp72\\source\\repos\\core_proje\\core_proje\\controllers\\writerusercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{372E303A-C748-4094-A242-E185D72922B2}|Core_Proje\\Core_Proje.csproj|solutionrelative:core_proje\\controllers\\writerusercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{372E303A-C748-4094-A242-E185D72922B2}|Core_Proje\\Core_Proje.csproj|c:\\users\\arslanmetealp72\\source\\repos\\core_proje\\core_proje\\controllers\\testimonialcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{372E303A-C748-4094-A242-E185D72922B2}|Core_Proje\\Core_Proje.csproj|solutionrelative:core_proje\\controllers\\testimonialcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{372E303A-C748-4094-A242-E185D72922B2}|Core_Proje\\Core_Proje.csproj|c:\\users\\arslanmetealp72\\source\\repos\\core_proje\\core_proje\\controllers\\socialmediacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{372E303A-C748-4094-A242-E185D72922B2}|Core_Proje\\Core_Proje.csproj|solutionrelative:core_proje\\controllers\\socialmediacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{372E303A-C748-4094-A242-E185D72922B2}|Core_Proje\\Core_Proje.csproj|c:\\users\\arslanmetealp72\\source\\repos\\core_proje\\core_proje\\controllers\\skillcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{372E303A-C748-4094-A242-E185D72922B2}|Core_Proje\\Core_Proje.csproj|solutionrelative:core_proje\\controllers\\skillcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{372E303A-C748-4094-A242-E185D72922B2}|Core_Proje\\Core_Proje.csproj|c:\\users\\arslanmetealp72\\source\\repos\\core_proje\\core_proje\\controllers\\servicecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{372E303A-C748-4094-A242-E185D72922B2}|Core_Proje\\Core_Proje.csproj|solutionrelative:core_proje\\controllers\\servicecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{372E303A-C748-4094-A242-E185D72922B2}|Core_Proje\\Core_Proje.csproj|c:\\users\\arslanmetealp72\\source\\repos\\core_proje\\core_proje\\controllers\\portfoliocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{372E303A-C748-4094-A242-E185D72922B2}|Core_Proje\\Core_Proje.csproj|solutionrelative:core_proje\\controllers\\portfoliocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{372E303A-C748-4094-A242-E185D72922B2}|Core_Proje\\Core_Proje.csproj|c:\\users\\arslanmetealp72\\source\\repos\\core_proje\\core_proje\\controllers\\featurecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{372E303A-C748-4094-A242-E185D72922B2}|Core_Proje\\Core_Proje.csproj|solutionrelative:core_proje\\controllers\\featurecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{372E303A-C748-4094-A242-E185D72922B2}|Core_Proje\\Core_Proje.csproj|c:\\users\\arslanmetealp72\\source\\repos\\core_proje\\core_proje\\controllers\\experiencecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{372E303A-C748-4094-A242-E185D72922B2}|Core_Proje\\Core_Proje.csproj|solutionrelative:core_proje\\controllers\\experiencecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{372E303A-C748-4094-A242-E185D72922B2}|Core_Proje\\Core_Proje.csproj|c:\\users\\arslanmetealp72\\source\\repos\\core_proje\\core_proje\\controllers\\experience2controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{372E303A-C748-4094-A242-E185D72922B2}|Core_Proje\\Core_Proje.csproj|solutionrelative:core_proje\\controllers\\experience2controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{372E303A-C748-4094-A242-E185D72922B2}|Core_Proje\\Core_Proje.csproj|c:\\users\\arslanmetealp72\\source\\repos\\core_proje\\core_proje\\controllers\\errorpagecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{372E303A-C748-4094-A242-E185D72922B2}|Core_Proje\\Core_Proje.csproj|solutionrelative:core_proje\\controllers\\errorpagecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{372E303A-C748-4094-A242-E185D72922B2}|Core_Proje\\Core_Proje.csproj|c:\\users\\arslanmetealp72\\source\\repos\\core_proje\\core_proje\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{372E303A-C748-4094-A242-E185D72922B2}|Core_Proje\\Core_Proje.csproj|solutionrelative:core_proje\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{372E303A-C748-4094-A242-E185D72922B2}|Core_Proje\\Core_Proje.csproj|c:\\users\\arslanmetealp72\\source\\repos\\core_proje\\core_proje\\controllers\\contactsubplacecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{372E303A-C748-4094-A242-E185D72922B2}|Core_Proje\\Core_Proje.csproj|solutionrelative:core_proje\\controllers\\contactsubplacecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{372E303A-C748-4094-A242-E185D72922B2}|Core_Proje\\Core_Proje.csproj|c:\\users\\arslanmetealp72\\source\\repos\\core_proje\\core_proje\\controllers\\contactcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{372E303A-C748-4094-A242-E185D72922B2}|Core_Proje\\Core_Proje.csproj|solutionrelative:core_proje\\controllers\\contactcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{372E303A-C748-4094-A242-E185D72922B2}|Core_Proje\\Core_Proje.csproj|c:\\users\\arslanmetealp72\\source\\repos\\core_proje\\core_proje\\controllers\\adminmessagecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{372E303A-C748-4094-A242-E185D72922B2}|Core_Proje\\Core_Proje.csproj|solutionrelative:core_proje\\controllers\\adminmessagecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{372E303A-C748-4094-A242-E185D72922B2}|Core_Proje\\Core_Proje.csproj|c:\\users\\arslanmetealp72\\source\\repos\\core_proje\\core_proje\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{372E303A-C748-4094-A242-E185D72922B2}|Core_Proje\\Core_Proje.csproj|solutionrelative:core_proje\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{372E303A-C748-4094-A242-E185D72922B2}|Core_Proje\\Core_Proje.csproj|c:\\users\\arslanmetealp72\\source\\repos\\core_proje\\core_proje\\controllers\\aboutcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{372E303A-C748-4094-A242-E185D72922B2}|Core_Proje\\Core_Proje.csproj|solutionrelative:core_proje\\controllers\\aboutcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "WriterUserController.cs",
+              "DocumentMoniker": "C:\\Users\\arslanmetealp72\\source\\repos\\Core_Proje\\Core_Proje\\Controllers\\WriterUserController.cs",
+              "RelativeDocumentMoniker": "Core_Proje\\Controllers\\WriterUserController.cs",
+              "ToolTip": "C:\\Users\\arslanmetealp72\\source\\repos\\Core_Proje\\Core_Proje\\Controllers\\WriterUserController.cs",
+              "RelativeToolTip": "Core_Proje\\Controllers\\WriterUserController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-03T11:56:47.082Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TestimonialController.cs",
+              "DocumentMoniker": "C:\\Users\\arslanmetealp72\\source\\repos\\Core_Proje\\Core_Proje\\Controllers\\TestimonialController.cs",
+              "RelativeDocumentMoniker": "Core_Proje\\Controllers\\TestimonialController.cs",
+              "ToolTip": "C:\\Users\\arslanmetealp72\\source\\repos\\Core_Proje\\Core_Proje\\Controllers\\TestimonialController.cs",
+              "RelativeToolTip": "Core_Proje\\Controllers\\TestimonialController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-03T11:56:43.623Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SocialMediaController.cs",
+              "DocumentMoniker": "C:\\Users\\arslanmetealp72\\source\\repos\\Core_Proje\\Core_Proje\\Controllers\\SocialMediaController.cs",
+              "RelativeDocumentMoniker": "Core_Proje\\Controllers\\SocialMediaController.cs",
+              "ToolTip": "C:\\Users\\arslanmetealp72\\source\\repos\\Core_Proje\\Core_Proje\\Controllers\\SocialMediaController.cs",
+              "RelativeToolTip": "Core_Proje\\Controllers\\SocialMediaController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-03T11:56:38.669Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SkillController.cs",
+              "DocumentMoniker": "C:\\Users\\arslanmetealp72\\source\\repos\\Core_Proje\\Core_Proje\\Controllers\\SkillController.cs",
+              "RelativeDocumentMoniker": "Core_Proje\\Controllers\\SkillController.cs",
+              "ToolTip": "C:\\Users\\arslanmetealp72\\source\\repos\\Core_Proje\\Core_Proje\\Controllers\\SkillController.cs",
+              "RelativeToolTip": "Core_Proje\\Controllers\\SkillController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-03T11:56:35.479Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ServiceController.cs",
+              "DocumentMoniker": "C:\\Users\\arslanmetealp72\\source\\repos\\Core_Proje\\Core_Proje\\Controllers\\ServiceController.cs",
+              "RelativeDocumentMoniker": "Core_Proje\\Controllers\\ServiceController.cs",
+              "ToolTip": "C:\\Users\\arslanmetealp72\\source\\repos\\Core_Proje\\Core_Proje\\Controllers\\ServiceController.cs",
+              "RelativeToolTip": "Core_Proje\\Controllers\\ServiceController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-03T11:56:32.427Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PortfolioController.cs",
+              "DocumentMoniker": "C:\\Users\\arslanmetealp72\\source\\repos\\Core_Proje\\Core_Proje\\Controllers\\PortfolioController.cs",
+              "RelativeDocumentMoniker": "Core_Proje\\Controllers\\PortfolioController.cs",
+              "ToolTip": "C:\\Users\\arslanmetealp72\\source\\repos\\Core_Proje\\Core_Proje\\Controllers\\PortfolioController.cs",
+              "RelativeToolTip": "Core_Proje\\Controllers\\PortfolioController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-03T11:56:28.724Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "FeatureController.cs",
+              "DocumentMoniker": "C:\\Users\\arslanmetealp72\\source\\repos\\Core_Proje\\Core_Proje\\Controllers\\FeatureController.cs",
+              "RelativeDocumentMoniker": "Core_Proje\\Controllers\\FeatureController.cs",
+              "ToolTip": "C:\\Users\\arslanmetealp72\\source\\repos\\Core_Proje\\Core_Proje\\Controllers\\FeatureController.cs",
+              "RelativeToolTip": "Core_Proje\\Controllers\\FeatureController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-03T11:56:22.525Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Experience2Controller.cs",
+              "DocumentMoniker": "C:\\Users\\arslanmetealp72\\source\\repos\\Core_Proje\\Core_Proje\\Controllers\\Experience2Controller.cs",
+              "RelativeDocumentMoniker": "Core_Proje\\Controllers\\Experience2Controller.cs",
+              "ToolTip": "C:\\Users\\arslanmetealp72\\source\\repos\\Core_Proje\\Core_Proje\\Controllers\\Experience2Controller.cs",
+              "RelativeToolTip": "Core_Proje\\Controllers\\Experience2Controller.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-03T11:56:11.369Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ErrorPageController.cs",
+              "DocumentMoniker": "C:\\Users\\arslanmetealp72\\source\\repos\\Core_Proje\\Core_Proje\\Controllers\\ErrorPageController.cs",
+              "RelativeDocumentMoniker": "Core_Proje\\Controllers\\ErrorPageController.cs",
+              "ToolTip": "C:\\Users\\arslanmetealp72\\source\\repos\\Core_Proje\\Core_Proje\\Controllers\\ErrorPageController.cs",
+              "RelativeToolTip": "Core_Proje\\Controllers\\ErrorPageController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-03T11:56:05.334Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ContactSubplaceController.cs",
+              "DocumentMoniker": "C:\\Users\\arslanmetealp72\\source\\repos\\Core_Proje\\Core_Proje\\Controllers\\ContactSubplaceController.cs",
+              "RelativeDocumentMoniker": "Core_Proje\\Controllers\\ContactSubplaceController.cs",
+              "ToolTip": "C:\\Users\\arslanmetealp72\\source\\repos\\Core_Proje\\Core_Proje\\Controllers\\ContactSubplaceController.cs",
+              "RelativeToolTip": "Core_Proje\\Controllers\\ContactSubplaceController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-03T11:55:49.521Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "AdminMessageController.cs",
+              "DocumentMoniker": "C:\\Users\\arslanmetealp72\\source\\repos\\Core_Proje\\Core_Proje\\Controllers\\AdminMessageController.cs",
+              "RelativeDocumentMoniker": "Core_Proje\\Controllers\\AdminMessageController.cs",
+              "ToolTip": "C:\\Users\\arslanmetealp72\\source\\repos\\Core_Proje\\Core_Proje\\Controllers\\AdminMessageController.cs",
+              "RelativeToolTip": "Core_Proje\\Controllers\\AdminMessageController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-03T11:55:39.253Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ContactController.cs",
+              "DocumentMoniker": "C:\\Users\\arslanmetealp72\\source\\repos\\Core_Proje\\Core_Proje\\Controllers\\ContactController.cs",
+              "RelativeDocumentMoniker": "Core_Proje\\Controllers\\ContactController.cs",
+              "ToolTip": "C:\\Users\\arslanmetealp72\\source\\repos\\Core_Proje\\Core_Proje\\Controllers\\ContactController.cs",
+              "RelativeToolTip": "Core_Proje\\Controllers\\ContactController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-03T11:55:38.627Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "AdminController.cs",
+              "DocumentMoniker": "C:\\Users\\arslanmetealp72\\source\\repos\\Core_Proje\\Core_Proje\\Controllers\\AdminController.cs",
+              "RelativeDocumentMoniker": "Core_Proje\\Controllers\\AdminController.cs",
+              "ToolTip": "C:\\Users\\arslanmetealp72\\source\\repos\\Core_Proje\\Core_Proje\\Controllers\\AdminController.cs",
+              "RelativeToolTip": "Core_Proje\\Controllers\\AdminController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-03T11:55:27.319Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "AboutController.cs",
+              "DocumentMoniker": "C:\\Users\\arslanmetealp72\\source\\repos\\Core_Proje\\Core_Proje\\Controllers\\AboutController.cs",
+              "RelativeDocumentMoniker": "Core_Proje\\Controllers\\AboutController.cs",
+              "ToolTip": "C:\\Users\\arslanmetealp72\\source\\repos\\Core_Proje\\Core_Proje\\Controllers\\AboutController.cs",
+              "RelativeToolTip": "Core_Proje\\Controllers\\AboutController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-03T11:55:22.157Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "DashboardController.cs",
+              "DocumentMoniker": "C:\\Users\\arslanmetealp72\\source\\repos\\Core_Proje\\Core_Proje\\Controllers\\DashboardController.cs",
+              "RelativeDocumentMoniker": "Core_Proje\\Controllers\\DashboardController.cs",
+              "ToolTip": "C:\\Users\\arslanmetealp72\\source\\repos\\Core_Proje\\Core_Proje\\Controllers\\DashboardController.cs",
+              "RelativeToolTip": "Core_Proje\\Controllers\\DashboardController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-03T11:53:22.699Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ExperienceController.cs",
+              "DocumentMoniker": "C:\\Users\\arslanmetealp72\\source\\repos\\Core_Proje\\Core_Proje\\Controllers\\ExperienceController.cs",
+              "RelativeDocumentMoniker": "Core_Proje\\Controllers\\ExperienceController.cs",
+              "ToolTip": "C:\\Users\\arslanmetealp72\\source\\repos\\Core_Proje\\Core_Proje\\Controllers\\ExperienceController.cs",
+              "RelativeToolTip": "Core_Proje\\Controllers\\ExperienceController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-03T11:53:12.446Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

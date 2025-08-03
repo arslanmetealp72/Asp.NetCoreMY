@@ -1,0 +1,14 @@
+C:\Users\arslanmetealp72\source\repos\Core_Proje\EntityLayer\bin\Release\net8.0\EntityLayer.deps.json
+C:\Users\arslanmetealp72\source\repos\Core_Proje\EntityLayer\bin\Release\net8.0\EntityLayer.runtimeconfig.json
+C:\Users\arslanmetealp72\source\repos\Core_Proje\EntityLayer\bin\Release\net8.0\EntityLayer.dll
+C:\Users\arslanmetealp72\source\repos\Core_Proje\EntityLayer\bin\Release\net8.0\EntityLayer.pdb
+C:\Users\arslanmetealp72\source\repos\Core_Proje\EntityLayer\obj\Release\net8.0\EntityLayer.csproj.AssemblyReference.cache
+C:\Users\arslanmetealp72\source\repos\Core_Proje\EntityLayer\obj\Release\net8.0\EntityLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\arslanmetealp72\source\repos\Core_Proje\EntityLayer\obj\Release\net8.0\EntityLayer.AssemblyInfoInputs.cache
+C:\Users\arslanmetealp72\source\repos\Core_Proje\EntityLayer\obj\Release\net8.0\EntityLayer.AssemblyInfo.cs
+C:\Users\arslanmetealp72\source\repos\Core_Proje\EntityLayer\obj\Release\net8.0\EntityLayer.csproj.CoreCompileInputs.cache
+C:\Users\arslanmetealp72\source\repos\Core_Proje\EntityLayer\obj\Release\net8.0\EntityLayer.dll
+C:\Users\arslanmetealp72\source\repos\Core_Proje\EntityLayer\obj\Release\net8.0\refint\EntityLayer.dll
+C:\Users\arslanmetealp72\source\repos\Core_Proje\EntityLayer\obj\Release\net8.0\EntityLayer.pdb
+C:\Users\arslanmetealp72\source\repos\Core_Proje\EntityLayer\obj\Release\net8.0\EntityLayer.genruntimeconfig.cache
+C:\Users\arslanmetealp72\source\repos\Core_Proje\EntityLayer\obj\Release\net8.0\ref\EntityLayer.dll

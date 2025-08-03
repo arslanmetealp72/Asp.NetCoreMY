@@ -1,0 +1,52 @@
+﻿@model EntityLayer.Concrete.Portfolio
+@{
+    ViewData["Title"] = "AddPortfolio";
+    Layout = "~/Views/Shared/_NewAdminLayout.cshtml";
+}
+
+@using (Html.BeginForm("AddPortfolio", "Portfolio", FormMethod.Post))
+{
+    <div class="col-12 grid-margin stretch-card">
+        <div class="card">
+            <div class="card-body">
+                <p class="card-description"> Yeni Proje Ekleme Paneli </p>
+                <form class="forms-sample" method="post">
+                    <br />
+                    @Html.Label("Proje Başlığı")
+                    @Html.TextBoxFor(model => model.Name, new { @class = "form-control" })
+                    @Html.ValidationMessageFor(Model => Model.Name)
+                    <br />
+                    <label>Görsel 1</label>
+                    @Html.TextBoxFor(model => model.ImageUrl, new { @class = "form-control" })
+                    @Html.ValidationMessageFor(Model => Model.ImageUrl)
+                    <br />
+                    <label>Görsel 2</label>
+                    @Html.TextBoxFor(model => model.ImageUrl2, new { @class = "form-control" })
+                    @Html.ValidationMessageFor(Model => Model.ImageUrl2)
+                    <br />
+                    <label>Proje Url</label>
+                    @Html.TextAreaFor(model => model.ProjectUrl, new { @class = "form-control" })
+                    @Html.ValidationMessageFor(Model => Model.ProjectUrl)
+                    <br />
+                    <label>Fiyat</label>
+                    @Html.TextAreaFor(model => model.Price, new { @class = "form-control" })
+                    @Html.ValidationMessageFor(Model => Model.Price)
+                    <br />
+                    <label>Tamamlanma Oranı</label>
+                    @Html.TextAreaFor(model => model.Value, new { @class = "form-control" })
+                    @Html.ValidationMessageFor(Model => Model.Value)
+                    <br />
+                    <label>Proje Url</label>
+                    @Html.TextAreaFor(model => model.ProjectUrl, new { @class = "form-control" })
+                    @Html.ValidationMessageFor(Model => Model.ProjectUrl)
+                    <br />
+                    <label>Proje Url</label>
+                    @Html.TextAreaFor(model => model.ProjectUrl, new { @class = "form-control" })
+                    @Html.ValidationMessageFor(Model => Model.ProjectUrl)
+                    <br />
+                    <button class="btn btn-outline-info">Kaydet</button>
+                </form>
+            </div>
+        </div>
+    </div>
+}
